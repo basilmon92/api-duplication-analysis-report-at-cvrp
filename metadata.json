@@ -1,0 +1,5 @@
+{
+  "name": "API Duplication Analysis Dashboard",
+  "description": "An interactive dashboard visualizing the quantitative duplication analysis between A&T and Commercial VRP APIs using various charts.",
+  "requestFramePermissions": []
+}
